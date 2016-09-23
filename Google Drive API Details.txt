@@ -1,0 +1,18 @@
+Here is your client ID
+824047626839-r7rhfck96ghg4nmiet4i9p8l8igumvrc.apps.googleusercontent.com
+
+Here is your client secret
+LUg2r0QOToGk6BbEwxZqGdNE
+
+App ID 
+824047626839
+
+Project ID
+continual-lodge-143610
+Project number
+824047626839
+Project name
+Google Drive
+
+API Key
+AIzaSyCCp0hspUWoMSemCsaRNtGYb_dn-yPL5uI
